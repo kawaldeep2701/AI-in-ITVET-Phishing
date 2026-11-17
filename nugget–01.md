@@ -39,21 +39,29 @@ Knowledge Check
 
 1. Single Choice: What is the safest way to check a link in an email?
 
+
 · [( )] Click it quickly and close the tab if it looks strange.
+
 · [(X)] Hover over it with your mouse to see the real URL.
+
 · [( )] Reply to the sender and ask if the link is safe.
 
 2. Single Choice: Which sender address is most suspicious?
 
 · [( )] it-support@yourcompany.com
+
 · [(X)] it-support@yourcompany-login-update.net
+
 · [( )] john.doe@yourcompany.com
 
 3. Multiple Choice: Which of the following are common signs of a phishing email?
 
 · [[X]] Extreme urgency ("Your account will be deleted in 1 hour!")
+
 · [[ ]] Correct spelling and professional layout.
+
 · [[X]] Asking for sensitive information like passwords.
+
 · [[X]] Unknown sender address.
 
 Summary
